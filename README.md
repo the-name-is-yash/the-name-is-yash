@@ -1,6 +1,6 @@
 ![MasterHead](https://e476rzxxeua.exactdn.com/wp-content/uploads/2020/01/00086-desk-anim-v0.3.gif?strip=all&lossy=0&ssl=1)
 <h1 align="center">👋Hello World🌍, I'm Yash Bachhav👑</h1>
-<h3 align="center">Let's Grab a Coffee☕ and chat about Machine Learning and Computer Vision👨‍💻</h3>
+<h3 align="center">Let's grab a Coffee☕ and chat about Machine Learning and Computer Vision👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-name-is-yash&label=Profile%20views&color=0e75b6&style=flat" alt="the-name-is-yash" /> </p>
 
