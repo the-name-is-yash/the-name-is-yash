@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
 
-- 🌱 I’m currently learning **OpenCV, Tenserflow, Keras**
+- 🌱 I’m currently learning **OpenCV, Tensorflow, Keras**
 
 - 📝 I frequently write articles on machine learning concepts [https://medium.com/@yash.bachhav](https://medium.com/@yash.bachhav)
 
